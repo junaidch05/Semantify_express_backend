@@ -1,5 +1,5 @@
-/*************  ✨ Codeium Command ⭐  *************/
-# express_backend
+
+# Semantify express backend
 
 ## Description
 
