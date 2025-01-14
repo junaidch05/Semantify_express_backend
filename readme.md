@@ -49,5 +49,5 @@ This is an Express.js backend application. It provides various endpoints and fun
 
 ## Author
 
-- Juanid Iqal
+- Juanid Iqbal
 
